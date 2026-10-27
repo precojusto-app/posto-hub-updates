@@ -2,27 +2,48 @@
   "schemaVersion": 1,
   "product": "mobile",
   "latest": {
-    "version": "0.1.12",
-    "tag": "mobile-v0.1.12",
-    "sourceCommit": "fcd7a4360372607ad6d9a4292cf4ccf4e30dda14",
-    "publishedAt": "2026-10-27T15:37:27Z",
+    "version": "0.1.13",
+    "tag": "mobile-v0.1.13",
+    "sourceCommit": "4af613d841b25b94252cb06db3eb06ce40e0939c",
+    "publishedAt": "2026-10-27T17:40:54Z",
     "assets": [
       {
-        "name": "PostoHub.Mobile-0.1.12.apk",
-        "sha256": "9412bef08e0a4d580f1ec5f4555f2e16e53808c6246a59642816d74626d0c36b",
-        "size": 7249338,
-        "url": "https://github.com/precojusto-app/posto-hub-updates/releases/download/mobile-v0.1.12/PostoHub.Mobile-0.1.12.apk"
+        "name": "PostoHub.Mobile-0.1.13.apk",
+        "sha256": "bab17156011964758cc1edff91a0e1203c6f891926ae103617d94ea9479cdb85",
+        "size": 7252442,
+        "url": "https://github.com/precojusto-app/posto-hub-updates/releases/download/mobile-v0.1.13/PostoHub.Mobile-0.1.13.apk"
       },
       {
         "name": "SHA256SUMS",
-        "sha256": "5ca5464a05d7a34d3eacdb74f72cbc586cdac5b65b309c86b35797017dbf9d78",
+        "sha256": "22e1b6ce0f194c612544f687aa01580ac4383539abe5e846c96b7b43c6c2c7ea",
         "size": 93,
-        "url": "https://github.com/precojusto-app/posto-hub-updates/releases/download/mobile-v0.1.12/SHA256SUMS"
+        "url": "https://github.com/precojusto-app/posto-hub-updates/releases/download/mobile-v0.1.13/SHA256SUMS"
       }
     ],
-    "versionCode": 1012
+    "versionCode": 1013
   },
   "releases": [
+    {
+      "version": "0.1.13",
+      "tag": "mobile-v0.1.13",
+      "sourceCommit": "4af613d841b25b94252cb06db3eb06ce40e0939c",
+      "publishedAt": "2026-10-27T17:40:54Z",
+      "assets": [
+        {
+          "name": "PostoHub.Mobile-0.1.13.apk",
+          "sha256": "bab17156011964758cc1edff91a0e1203c6f891926ae103617d94ea9479cdb85",
+          "size": 7252442,
+          "url": "https://github.com/precojusto-app/posto-hub-updates/releases/download/mobile-v0.1.13/PostoHub.Mobile-0.1.13.apk"
+        },
+        {
+          "name": "SHA256SUMS",
+          "sha256": "22e1b6ce0f194c612544f687aa01580ac4383539abe5e846c96b7b43c6c2c7ea",
+          "size": 93,
+          "url": "https://github.com/precojusto-app/posto-hub-updates/releases/download/mobile-v0.1.13/SHA256SUMS"
+        }
+      ],
+      "versionCode": 1013
+    },
     {
       "version": "0.1.12",
       "tag": "mobile-v0.1.12",
